@@ -23,4 +23,6 @@ Discover Investor Relations news, analyst updates, and market sentiment in one l
 *Powered by **The Raptor** 🦅*
 
 If this site no longer works, use the backup https://ir-news-scraper-gqkjsrmwh96uw3kyacip94.streamlit.app/
-That website is what the dev updates.
+That website is what the dev updates. The OG Dev github also has the option to run on local dashboard.
+This is just a duplicate upload.
+
