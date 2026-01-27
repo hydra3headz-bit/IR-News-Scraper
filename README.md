@@ -9,16 +9,9 @@ Discover Investor Relations news, analyst updates, and market sentiment in one l
 - **Smart Timeframes**: Filter news by the last 24 hours up to the last 6 months.
 - **Lightning Speed**: Parallel "hunting" engine delivers results in seconds.
 
-## 🚀 How to Run (Local Dashboard)
-If you prefer to run this on your own computer:
-1. **Download** this folder.
-2. **Double-click** `run_scraper.bat`.
-3. **Open** `http://127.0.0.1:5000` in your browser.
-4. Keep the black command window open while using the app!
-
 ## 🌐 How to Use (Live Web App)
-1. Go to the [Live Raptor Scan Link] (if provided by the owner).
-2. Enter tickers like `NVDA, AAPL, PETV`.
+1. Go to the https://ir-news-scraper-hydra-access-qbkqojre6rlkug3xh.streamlit.app/
+2. Enter tickers like `NVDA, AAPL, GOOG`.
 3. Choose a timeframe and hit **Start Raptor Scan**.
 
 ## 🛡️ Reliability & Privacy
@@ -28,3 +21,6 @@ If you prefer to run this on your own computer:
 
 ---
 *Powered by **The Raptor** 🦅*
+
+If this site no longer works, use the backup https://ir-news-scraper-gqkjsrmwh96uw3kyacip94.streamlit.app/
+That website is what the dev updates.
