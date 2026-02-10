@@ -17,6 +17,9 @@ If you want to run this professional tool on your own Windows computer:
 3. **Launch**: Double-click the **`run_scraper.bat`** file inside.
 4. **Use**: Your browser will automatically open to the app.
    - *Note: Keep the command window open while using the app!*
+  
+## Website URL
+https://ir-news-scraper-hydra-access-qbkqojre6rlkug3xh.streamlit.app/
 
 ## 🛡️ Reliability & Privacy
 - **Source Badges**: Every news item is labeled so you know exactly where the data came from (Yahoo Aggregate, Reddit, or Official IR).
@@ -43,3 +46,4 @@ To see official SEC filings (8-K, 10-Q, 10-K, Form 4, etc.) directly in the app:
 
 ---
 *Powered by **The Raptor** 🦅*
+
